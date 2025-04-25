@@ -229,3 +229,15 @@ nav {
 .input__group input::placeholder {
     color: var(--text-light);
 }
+
+.about__container {
+    overflow: hidden;
+    display: grid;
+    gap: 2rem;
+}
+
+.about__image img {
+    max-width: 450px;
+    margin: auto;
+    border-radius: 5px;
+}
