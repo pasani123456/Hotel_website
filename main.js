@@ -56,6 +56,7 @@ ScrollReveal().reveal(".about__btn", {
     delay: 2000,
 });
 
+
   // room container
 ScrollReveal().reveal(".room__card", {
     ...scrollRevealOption,
